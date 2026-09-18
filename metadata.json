@@ -1,0 +1,7 @@
+{
+  "name": "CodeAssess",
+  "description": "CodeTantra-inspired coding assessment portal featuring admin course creation, student coding environment, multi-language code runner, auto-grading, and analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
